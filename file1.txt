@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 Real Madrid from master
+=======
+CSK from new-branch
+>>>>>>> new-branch
